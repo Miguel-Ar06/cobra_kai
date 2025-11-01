@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.Dojo {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.Dojo:hover{
+    background-image: url("../templates/Images/dojoUnirse.png");
+}
