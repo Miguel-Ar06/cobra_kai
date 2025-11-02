@@ -202,3 +202,19 @@ body {
 .image-fader img:nth-of-type(3) {
   animation-delay: 0s;
 }
+
+.EpisodioPlay {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    width: 70%;
+    height: 900px;
+}
+
+.Play1 {
+    background-image: url("../media/Ep1_play.png");
+}
+.Play2 {
+    background-image: url("../media/Pe1_play.png");
+}

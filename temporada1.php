@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cobra Kai</title>
+    <title>Temporada 1</title>
     <link rel="stylesheet" href="styles/bootstrap5.css">
     <link rel="stylesheet" href="styles/styles.css">
 </head>
-<body  style="background-image: url(templates/Images/fondo.svg); background-size:auto;">
+<body>
     <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/bannert1.png" alt="banner" >
     <?php require 'templates/navbar.html.php'; ?>
 
@@ -32,7 +32,7 @@
             <div class="container-fluid pt-5 pb-5" >
             <h1 class="text-center text-warning dead-stock titulo mb-5">Episodios</h1>
                 <div class="row justify-content-center gx-5">
-                    <a href="t1_episodio1" class="col-3 Episodio Episodio1 img-fluid m-4" style="z-index: 1;"></a>
+                    <a href="t1_episodio1.php" class="col-3 Episodio Episodio1 img-fluid m-4" style="z-index: 1;"></a>
                     <div class="col-3 Episodio Episodio2 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Episodio Episodio3 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Episodio Episodio4 img-fluid m-4" style="z-index: 1;"></div>
