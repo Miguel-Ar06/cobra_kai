@@ -10,10 +10,48 @@
 }
 
 .Dojo {
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  padding: 10% 9% 10% 10%;
+  transition: 0.5s linear;
 }
+
+.Dojo1 {
+    background-image: url("../templates/Images/dojo1.png");
+}
+
+.Dojo2 {
+    background-image: url("../templates/Images/dojo2.png");
+}
+
+.Dojo3 {
+    background-image: url("../templates/Images/dojo3.png");
+}
+
+
 .Dojo:hover{
     background-image: url("../templates/Images/dojoUnirse.png");
+}
+
+@font-face {
+    font-family: 'Dead-Stock-Demo';
+    src: url("../media/Dead-Stock-Demo.ttf");
+}
+
+@font-face {
+    font-family: 'bahnschrift';
+    src: url('../media/BAHNSCHRIFT.TTF');
+}
+
+.dead-stock {
+    font-family: 'Dead-Stock-Demo';
+}
+
+.bahnschrift {
+    font-family: 'bahnschrift';
+}
+
+.boton-amarillo {
+    /* aqui el codigo para los botones esos que parecen pintados con amarillo peron hay sueño. son las 3am */
 }
