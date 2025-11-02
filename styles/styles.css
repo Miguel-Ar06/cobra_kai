@@ -1,3 +1,15 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    position: relative;
+    background-image: url('../media/fondo.svg');
+    background-repeat: repeat-y;
+    background-position: top center;
+    background-size: cover; 
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -53,12 +65,140 @@
 }
 
 .boton-amarillo {
-    /* aqui el codigo para los botones esos que parecen pintados con amarillo peron hay sueño. son las 3am */
+    background-image: url('../media/fondo-boton.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 1rem 4rem;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-family: 'Dead-Stock-Demo';
+    color: white;
+    font-size: 1.5rem;
 }
 
-.bg-left {
-  background-image: url('media/FondoRojoMuchachito.png');
-  background-size: cover;
-  background-position: center;
-  height: 100vh;
+
+
+.Temporada {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    width: 420px;
+    height: 700px;
+}
+
+.Temporada1 {
+    background-image: url("../media/Temporada1.png");
+}
+.Temporada2 {
+    background-image: url("../media/Temporada2.png");
+}
+.Temporada3 {
+    background-image: url("../media/Temporada3.png");
+}
+.Temporada4 {
+    background-image: url("../media/Temporada4.webp");
+}
+
+.Pelicula {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    width: 430px;
+    height: 700px;
+}
+
+.Pelicula1 {
+    background-image: url("../media/Pelicula1.png");
+}
+.Pelicula2 {
+    background-image: url("../media/Pelicula2.png");
+}
+.Pelicula3 {
+    background-image: url("../media/Pelicula3.png");
+}
+.Pelicula4 {
+    background-image: url("../media/Pelicula4.png");
+}
+
+.Episodio {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    width: 500px;
+    height: 400px;
+}
+
+.Episodio1 {
+    background-image: url("../media/episodio1.png");
+}
+.Episodio2 {
+    background-image: url("../media/episodio2.png");
+}
+.Episodio3 {
+    background-image: url("../media/episodio3.png");
+}
+.Episodio4 {
+    background-image: url("../media/episodio4.png");
+}
+.Episodio5 {
+    background-image: url("../media/episodio5.png");
+}
+.Episodio6 {
+    background-image: url("../media/episodio6.png");
+}
+.Episodio7 {
+    background-image: url("../media/episodio7.png");
+}
+.Episodio8 {
+    background-image: url("../media/episodio8.png");
+}
+.Episodio9 {
+    background-image: url("../media/episodio9.png");
+}
+.Episodio10 {
+    background-image: url("../media/episodio10.png");
+}
+
+.image-fader {
+  width: 300px;
+}
+
+.image-fader img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  animation-name: imagefade;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 9s;
+}
+
+@keyframes imagefade {
+  0% {
+    opacity:1;
+  }
+  33% {
+    opacity:0;
+  }
+  66% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+.image-fader img:nth-of-type(1) {
+  animation-delay: 6s;
+}
+.image-fader img:nth-of-type(2) {
+  animation-delay: 3s;
+}
+.image-fader img:nth-of-type(3) {
+  animation-delay: 0s;
 }
