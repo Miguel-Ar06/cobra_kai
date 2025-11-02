@@ -1,0 +1,1 @@
+<div class="container-fluid img img-fluid"><img style="width: 100vw;" src="media/footer.png"></div>
