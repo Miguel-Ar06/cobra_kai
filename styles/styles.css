@@ -55,3 +55,10 @@
 .boton-amarillo {
     /* aqui el codigo para los botones esos que parecen pintados con amarillo peron hay sueño. son las 3am */
 }
+
+.bg-left {
+  background-image: url('media/FondoRojoMuchachito.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
