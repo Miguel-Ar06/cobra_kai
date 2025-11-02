@@ -16,7 +16,7 @@
             <div class="container-fluid pt-5 pb-5" >
             <h1 class="text-center text-warning dead-stock titulo mb-5">Cobra Kai Temporadas</h1>
                 <div class="row justify-content-center gx-5">
-                    <div class="col-3 Temporada Temporada1 img-fluid m-4" style="z-index: 1;"></div>
+                    <a href="temporada1.php" class="col-3 Temporada Temporada1 img-fluid m-4" style="z-index: 1;"></a>
                     <div class="col-3 Temporada Temporada2 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Temporada Temporada3 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Temporada Temporada4 img-fluid m-4" style="z-index: 1;"></div>
@@ -31,7 +31,7 @@
             <div class="container-fluid pt-5 pb-5" >
             <h1 class="text-center text-warning dead-stock titulo mb-5">Karate Kid Peliculas</h1>
                 <div class="row justify-content-center gx-5">
-                    <div class="col-3 Pelicula Pelicula1 img-fluid m-4" style="z-index: 1;"></div>
+                    <a href="pelicula.php" class="col-3 Pelicula Pelicula1 img-fluid m-4" style="z-index: 1;"></a>
                     <div class="col-3 Pelicula Pelicula2 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Pelicula Pelicula3 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Pelicula Pelicula4 img-fluid m-4" style="z-index: 1;"></div>

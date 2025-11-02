@@ -109,3 +109,43 @@
 .Pelicula4 {
     background-image: url("../media/Pelicula4.png");
 }
+
+.Episodio {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    width: 500px;
+    height: 400px;
+}
+
+.Episodio1 {
+    background-image: url("../media/episodio1.png");
+}
+.Episodio2 {
+    background-image: url("../media/episodio2.png");
+}
+.Episodio3 {
+    background-image: url("../media/episodio3.png");
+}
+.Episodio4 {
+    background-image: url("../media/episodio4.png");
+}
+.Episodio5 {
+    background-image: url("../media/episodio5.png");
+}
+.Episodio6 {
+    background-image: url("../media/episodio6.png");
+}
+.Episodio7 {
+    background-image: url("../media/episodio7.png");
+}
+.Episodio8 {
+    background-image: url("../media/episodio8.png");
+}
+.Episodio9 {
+    background-image: url("../media/episodio9.png");
+}
+.Episodio10 {
+    background-image: url("../media/episodio10.png");
+}
