@@ -11,8 +11,12 @@
     <?php require 'templates/letras.php'?>
     <p class="h5 ms-5 banschrift text-white" style="position: absolute ;z-index: 20; padding-top:55%">Treinta y cuatro años después de los eventos del torneo de karate All Valley de <br> 1984, Johnny Lawrence busca la redención al abrir un dojo Cobra Kai, reavivando <br> su rivalidad con un exitoso Daniel LaRusso.</p>
     <button class="boton-amarillo" style="position: absolute ;z-index: 15; margin-top:55%; margin-left: 80%">Saber Mas</button>
-    <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/banner1.png" alt="banner" >
-    <?php require 'templates/navbar.html.php'; ?>
+    <div class="image-fader">
+        <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/banner1.png" alt="banner" >
+        <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/banner2.png" alt="banner" >
+        <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/banner3.png" alt="banner" >
+    </div>
+    <div class="container-fluid" stylre="position-absolute; top: 0;"><?php require 'templates/navbar.html.php'; ?></div>
     <!-- Div General (Para las imagenes) -->
     <div class="container-fluid mt-4 p-0 m-0">
         <!-- Div Para el apartado de elige un Dojo -->
@@ -42,13 +46,14 @@
     <div id="espacio_vacio" style="padding-top: 300px; position: relative; z-index: 1;"></div>
     <h1 class="text-white text-center dead-stock pt-5 pb-5">Cuando la pelea llega a ti <br> debes estar listo para contratacar</h1>
     <div id="espacio_vacio" style="padding-top: 300px; position: relative; z-index: 1;"></div>
-    <div class="container-fluid px-0">
+    <!--  
+    <div class="container-fluid px-0">   
       <div class="row g-0 align-items-center justify-content-center">
         <div class="col-3 d-flex justify-content-center align-items-center px-0">
           <img src="media/Line 2.png" alt="linea_pajua" class="w-100" style="max-width:240px; display:block;">
         </div>
 
-        <div class="col-6 d-flex justify-content-center">
+         <div class="col-6 d-flex justify-content-center">
           <p class="text-warning dead-stock my-0" style="font-size:5rem; line-height:1;">Cobra Kai</p>
         </div>
 
@@ -56,7 +61,8 @@
           <img src="media/Line 2.png" alt="linea_pajua" class="w-100" style="max-width:240px; display:block;">
         </div>
       </div>
-    </div>
+    </div> 
+    -->
     <div id="espacio_vacio" style="padding-top: 300px; position: relative; z-index: 1;"></div>
     
     <?php include 'templates/footer.html.php'; ?>
