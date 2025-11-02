@@ -77,3 +77,47 @@ body {
     color: white;
     font-size: 1.5rem;
 }
+
+.Temporada {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    width: 420px;
+    height: 700px;
+}
+
+.Temporada1 {
+    background-image: url("../media/Temporada1.png");
+}
+.Temporada2 {
+    background-image: url("../media/Temporada2.png");
+}
+.Temporada3 {
+    background-image: url("../media/Temporada3.png");
+}
+.Temporada4 {
+    background-image: url("../media/Temporada4.webp");
+}
+
+.Pelicula {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    width: 430px;
+    height: 700px;
+}
+
+.Pelicula1 {
+    background-image: url("../media/Pelicula1.png");
+}
+.Pelicula2 {
+    background-image: url("../media/Pelicula2.png");
+}
+.Pelicula3 {
+    background-image: url("../media/Pelicula3.png");
+}
+.Pelicula4 {
+    background-image: url("../media/Pelicula4.png");
+}
