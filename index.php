@@ -29,7 +29,7 @@
     <div id="espacio_vacio" style="padding-top: 300px; position: relative; z-index: 1;"></div>
     <div class="container-fluid d-flex flex-column align-items-center justify-content-center" style="background-image: url(media/johnny_amarillo.png); height: 700px; background-size: cover; background-repeat: no-repeat; width: 100vw; background-position: center;">
         <div class="row"><div class="col-12 text-center"><p class="text-white text-center dead-stock fs-1">Mira la Primera Temporada</p></div></div>
-        <div class="row"><div class="col position-relative"><button>Ver ahora</button></div></div>
+        <div class="row"><div class="col position-relative"><button class="boton-amarillo">Ver ahora</button></div></div>
     </div>
     <!-- Div Merch -->
      <div>

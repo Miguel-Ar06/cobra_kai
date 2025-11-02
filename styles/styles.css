@@ -53,5 +53,15 @@
 }
 
 .boton-amarillo {
-    /* aqui el codigo para los botones esos que parecen pintados con amarillo peron hay sueño. son las 3am */
+    background-image: url('../media/fondo-boton.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 1rem 4rem;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    font-family: 'Dead-Stock-Demo';
+    color: white;
+    font-size: 1.5rem;
 }
