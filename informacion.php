@@ -38,14 +38,7 @@
         <div class="container-fluid d-flex flex-column align-items-center justify-content-center" style="background-image: url(media/pareda2.png); background-size: cover; background-repeat: no-repeat; width: 100vw; background-position: center;">
 
         <!-- Div Para el apartado de sinopsis -->
-        <div id="espacio_vacio" style="padding-top: 25%; position: relative; z-index: 1;"></div>
-        <div class="container-fluid pt-5 pb-5">
-            <p class="text-align-left text-white bahnschrift titulo fs-1" style="margin-left: 20%; margin-right: 20%; margin-top: 6%;">
-                Johnny Lawrence ahora en sus 50 años lucha con un vida de <br>
-                excesos y dificultades, por su lado Daniel LaRusso es ahora un <br>
-                hombre exitoso. En su intento de mejorar su vida Johnny decide <br>
-                 reabrir el dojo de Cobra Kai.
-            </p>
+        <div id="espacio_vacio" style="padding-top: 20%; position: relative; z-index: 1;"></div>
 
     <?php include 'templates/footer.html.php'; ?>
 </body>
