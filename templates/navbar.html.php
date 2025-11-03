@@ -51,13 +51,13 @@
     <div class="col-10">
       <ul class="nav justify-content-center text-black" >
         <li class="nav-item">
-          <a class="nav-link active text-white bahnschrift elementos" aria-current="page" href="#">Inicio</a>
+          <a class="nav-link active text-white bahnschrift elementos" aria-current="page" href="index.php">Inicio</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-white bahnschrift elementos" href="#">Explorar</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white bahnschrift elementos" href="#">Tienda</a>
+          <a class="nav-link text-white bahnschrift elementos" href="merch.php">Tienda</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-white bahnschrift elementos">Galeria</a>
