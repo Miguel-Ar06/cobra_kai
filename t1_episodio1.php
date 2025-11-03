@@ -25,11 +25,11 @@
         <!-- Div Para sinopsis -->
         <div class="container-fluid pt-5 pb-5">
             <p class="text-align-left text-white bahnschrift titulo fs-1" style="margin-left: 19%; margin-right: 19%;">
-                Han pasado 34 años y un alcohólico y acabado Johnny Lawrence se <br>
-                esfuerza por ganarse la vida como un hombre de mantenimiento, <br>
-                mientras que Daniel dirige una exitosa cadena de concesionarios <br>
-                 de autos. Tras recatar a su vecino de un grupo de matones este <br>
-                 convence a Johnny de reabrir el dojo de Cobra Kai lo que da inicio <br>
+                Han pasado 34 años y un alcohólico y acabado Johnny Lawrence se 
+                esfuerza por ganarse la vida como un hombre de mantenimiento, 
+                mientras que Daniel dirige una exitosa cadena de concesionarios 
+                 de autos. Tras recatar a su vecino de un grupo de matones este
+                 convence a Johnny de reabrir el dojo de Cobra Kai lo que da inicio
                   a todo.
             </p>
 
