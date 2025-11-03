@@ -12,7 +12,7 @@
     <?php require 'templates/navbar.html.php'; ?>
 
         <!-- Div Para el apartado de temporadas -->
-        <div id="espacio_vacio" style="padding-top: 2080px; position: relative; z-index: 1;"></div>
+        <div id="espacio_vacio" style="padding-top: 1640px; position: relative; z-index: 1;"></div>
         <!-- Div Para el fondo -->
         <div class="container-fluid d-flex flex-column align-items-center justify-content-center" style="background-image: url(media/pareda1.png); background-size: cover; background-repeat: no-repeat; width: 100vw; background-position: center;">
         <div class="container-fluid d-flex flex-column align-items-center justify-content-center" style="background-image: url(media/pareda2.png); background-size: cover; background-repeat: no-repeat; width: 100vw; background-position: center;">
@@ -20,9 +20,9 @@
         <!-- Div Para el apartado de sinopsis -->
         <div class="container-fluid pt-5 pb-5">
             <p class="text-align-left text-white bahnschrift titulo fs-1" style="margin-left: 20%; margin-right: 20%; margin-top: 6%;">
-                Johnny Lawrence ahora en sus 50 años lucha con un vida de <br>
-                excesos y dificultades, por su lado Daniel LaRusso es ahora un <br>
-                hombre exitoso. En su intento de mejorar su vida Johnny decide <br>
+                Johnny Lawrence ahora en sus 50 años lucha con un vida de 
+                excesos y dificultades, por su lado Daniel LaRusso es ahora un 
+                hombre exitoso. En su intento de mejorar su vida Johnny decide 
                  reabrir el dojo de Cobra Kai.
             </p>
 

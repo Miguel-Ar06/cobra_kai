@@ -131,7 +131,12 @@ body {
     display: flex;
     width: 500px;
     height: 400px;
+    transition: 0.5s linear;
 }
+.Episodio:hover{
+    background-image: url("../media/EpisodioHover.png");
+}
+
 
 .Episodio1 {
     background-image: url("../media/episodio1.png");
