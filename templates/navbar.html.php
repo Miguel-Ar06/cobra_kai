@@ -53,20 +53,20 @@
           <a class="nav-link active text-white bahnschrift elementos" aria-current="page" href="index.php">Inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white bahnschrift elementos" href="#">Explorar</a>
+          <a class="nav-link text-white bahnschrift elementos" href="karate_kid.php">Explorar</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-white bahnschrift elementos" href="merch.php">Tienda</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white bahnschrift elementos">Galeria</a>
+          <a href="galeria.php" class="nav-link text-white bahnschrift elementos">Galeria</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-white bahnschrift elementos">Foro</a>
         </li>
       </ul>
     </div>
-    <div class="col-1 img img-fluid" ><img src="media/icono_usuario.png" alt="icono_usuario" style="width: 5vw;"></div>
+   <div class="col-1 img img-fluid" > <a href="login.php"><img src="media/icono_usuario.png" alt="icono_usuario" style="width: 5vw;"></a></div>
   </div> 
 
 </div>

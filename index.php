@@ -10,7 +10,7 @@
 <body>
     <?php require 'templates/letras.php'?>
     <p class="h5 ms-5 banschrift text-white" style="position: absolute ;z-index: 20; padding-top:55%">Treinta y cuatro años después de los eventos del torneo de karate All Valley de <br> 1984, Johnny Lawrence busca la redención al abrir un dojo Cobra Kai, reavivando <br> su rivalidad con un exitoso Daniel LaRusso.</p>
-    <button class="boton-amarillo" style="position: absolute ;z-index: 15; margin-top:55%; margin-left: 80%">Saber Mas</button>
+    <a href="informacion.php"><button class="boton-amarillo" style="position: absolute ;z-index: 15; margin-top:55%; margin-left: 80%">Saber Mas</button></a>
     <div class="image-fader">
         <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/banner1.png" alt="banner" >
         <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/banner2.png" alt="banner" >
@@ -24,9 +24,9 @@
         <div class="container pt-5 pb-5" >
             <h1 class="text-center text-warning dead-stock titulo mb-5">Elige un Dojo</h1>
             <div class="row justify-content-center gx-5">
-                <div class="col-2 Dojo Dojo1 img-fluid m-4" style="z-index: 1;"></div>
-                <div class="col-2 Dojo Dojo2 img-fluid m-4" style="z-index: 1;"></div>
-                <div class="col-2 Dojo Dojo3 img-fluid m-4" style="z-index: 1;"></div>
+                <a class="col-2 Dojo Dojo1 img-fluid m-4" href="DojoMiyagi.php" style="z-index: 1;"></a>
+                <a class="col-2 Dojo Dojo2 img-fluid m-4" href="DojoEagle.php" style="z-index: 1;"></a>
+                <a class="col-2 Dojo Dojo3 img-fluid m-4" href="DojoCobra.php" style="z-index: 1;"></a>
             </div>
         </div>
     </div>
