@@ -14,7 +14,7 @@
         <!-- Div Para el apartado de temporadas -->
         <div id="espacio_vacio" style="padding-top: 900px; position: relative; z-index: 1;"></div>
             <div class="container-fluid pt-5 pb-5" >
-            <h1 class="text-center text-warning dead-stock titulo mb-5">Cobra Kai Temporadas</h1>
+            <h1 class="text-center text-white dead-stock titulo mb-5">Cobra Kai Temporadas</h1>
                 <div class="row justify-content-center gx-5">
                     <a href="temporada1.php" class="col-3 Temporada Temporada1 img-fluid m-4" style="z-index: 1;"></a>
                     <div class="col-3 Temporada Temporada2 img-fluid m-4" style="z-index: 1;"></div>
