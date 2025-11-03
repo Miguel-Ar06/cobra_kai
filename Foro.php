@@ -53,7 +53,7 @@
         <div class="row">
             <div class="col">
                 <div class="container-fluid d-flex flex-column align-items-center justify-content-center text-justify" >
-                    <img src="media/Peinado.png" alt="" style="">
+                    <a href="debate.php"><img src="media/Peinado.png" alt="" style=""></a>
                 </div>
             </div>
             <div class="col">

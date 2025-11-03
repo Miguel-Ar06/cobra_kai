@@ -51,12 +51,12 @@
     <div class="container-fluid d-flex flex-column align-items-center justify-content-center" style="background-image: url(media/autistasa.png); height: 130px; background-size: cover; background-repeat: no-repeat; width: 100vw; background-position: center;">
     </div>
 
-    <h1 class="text-left text-white dead-stock titulo mb-5 fs-2" style="margin-top: 4%; margin-bottom: 4%; margin-left: 15%;">Publicaciones</h1> 
+    <h1 class="text-left text-white dead-stock titulo mb-5 fs-2" style="margin-top: 4%; margin-bottom: 4%; margin-left: 15%;"><a href="publicaciones.php">Publicaciones</a></h1> 
     <div class="row">
         <img src="media/publicos.png" alt="pepe" style="width: 100%; height: 100%;">
     </div>
 
-    <h1 class="text-left text-white dead-stock titulo mb-5 fs-2" style="margin-top: 4%; margin-bottom: 4%; margin-left: 15%;">Foros</h1>    
+    <h1 class="text-left text-white dead-stock titulo mb-5 fs-2" style="margin-top: 4%; margin-bottom: 4%; margin-left: 15%;"><a href="foro.php">Foros</a></h1>    
     <div class="row" style="margin-left: 15%; margin-right: 15%;">
         <img src="media/foraneos.png" alt="pepe" style="width: 100%; height: 100%;">
     </div>

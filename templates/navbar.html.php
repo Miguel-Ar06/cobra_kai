@@ -62,7 +62,7 @@
           <a href="galeria.php" class="nav-link text-white bahnschrift elementos">Galeria</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white bahnschrift elementos">Foro</a>
+          <a class="nav-link text-white bahnschrift elementos" href="foro.php">Foro</a>
         </li>
       </ul>
     </div>
