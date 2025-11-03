@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cobra Kai</title>
+    <title>Streaming</title>
     <link rel="stylesheet" href="styles/bootstrap5.css">
     <link rel="stylesheet" href="styles/styles.css">
 </head>
-<body  style="background-image: url(templates/Images/fondo.svg); background-size:auto;">
+<body>
     <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/banner4.png" alt="banner" >
     <?php require 'templates/navbar.html.php'; ?>
 
@@ -16,7 +16,7 @@
             <div class="container-fluid pt-5 pb-5" >
             <h1 class="text-center text-warning dead-stock titulo mb-5">Cobra Kai Temporadas</h1>
                 <div class="row justify-content-center gx-5">
-                    <div class="col-3 Temporada Temporada1 img-fluid m-4" style="z-index: 1;"></div>
+                    <a href="temporada1.php" class="col-3 Temporada Temporada1 img-fluid m-4" style="z-index: 1;"></a>
                     <div class="col-3 Temporada Temporada2 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Temporada Temporada3 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Temporada Temporada4 img-fluid m-4" style="z-index: 1;"></div>
@@ -31,7 +31,7 @@
             <div class="container-fluid pt-5 pb-5" >
             <h1 class="text-center text-warning dead-stock titulo mb-5">Karate Kid Peliculas</h1>
                 <div class="row justify-content-center gx-5">
-                    <div class="col-3 Pelicula Pelicula1 img-fluid m-4" style="z-index: 1;"></div>
+                    <a href="pelicula.php" class="col-3 Pelicula Pelicula1 img-fluid m-4" style="z-index: 1;"></a>
                     <div class="col-3 Pelicula Pelicula2 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Pelicula Pelicula3 img-fluid m-4" style="z-index: 1;"></div>
                     <div class="col-3 Pelicula Pelicula4 img-fluid m-4" style="z-index: 1;"></div>
