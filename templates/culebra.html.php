@@ -1,0 +1,2 @@
+<img style="z-index: 1; left: 0; padding-top: 32%;" src="media/culebrai.png" alt="" class="float-start position-absolute">
+<img style="z-index:n1; right: 0; padding-top: 0%; padding-right: 0%;" src="media/culebrad.png" class="float-end position-absolute" alt="" class="float-end">
