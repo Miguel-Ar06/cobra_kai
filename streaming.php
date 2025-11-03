@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cobra Kai</title>
+    <title>Streaming</title>
     <link rel="stylesheet" href="styles/bootstrap5.css">
     <link rel="stylesheet" href="styles/styles.css">
 </head>
-<body  style="background-image: url(templates/Images/fondo.svg); background-size:auto;">
+<body>
     <img class="position-absolute img-fluid" style="width: 100%; padding: 15% 0 ; z-index: 0;" src="media/banner4.png" alt="banner" >
     <?php require 'templates/navbar.html.php'; ?>
 
