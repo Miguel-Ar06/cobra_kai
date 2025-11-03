@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    overflow-x: hidden;
 }
 
 body {
@@ -9,7 +10,7 @@ body {
     background-position: top center;
     background-size: cover; 
 }
-
+ 
 *{
     margin: 0;
     padding: 0;
