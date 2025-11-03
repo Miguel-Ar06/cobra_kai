@@ -32,7 +32,6 @@
 }
 </style>
 
-<!-- falta acomodar detallitos del responsive en moviles-->
 
 <div class="container-fluid fondo-navbar position-relative" style="z-index: 10;">
 <div class="row text-center"><p class="text-dark dead-stock titulo">Cobra Kai</p></div>
